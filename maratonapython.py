@@ -39,4 +39,3 @@ beatles.insert(0, "ringo starr")
 print("Etapa 5:", beatles)
 
 ("o fabuloso", len(beatles))
-4
